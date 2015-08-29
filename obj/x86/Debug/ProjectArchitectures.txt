@@ -1,0 +1,1 @@
+E:\Projects\Sound Cloud\MusicPlayer\MusicPlayer\MusicPlayer.csproj;x86
